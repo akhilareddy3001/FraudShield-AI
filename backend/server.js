@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 app.post("/api/analyze", async (req, res) => {
   try {
     const response = await axios.post(
-      "http://127.0.0.1:8000/predict",
+      "https://fraudshield-ml-n46m.onrender.com/predict",
       req.body
     );
 
