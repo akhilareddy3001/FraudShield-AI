@@ -1,5 +1,16 @@
 # FraudShield AI 🛡️
 
+## 🌐 Live Demo
+
+### 🚀 Frontend
+[Open FraudShield AI](https://frontend-beta-ivory-38.vercel.app/)
+
+### ⚙️ Backend API
+[Backend Service](https://fraudshield-ai-9s2b.onrender.com/)
+
+### 🤖 ML Service
+[ML Service](https://fraudshield-ml-n46m.onrender.com/)
+
 AI-powered financial fraud detection system that analyzes transaction patterns and identifies potentially fraudulent transactions.
 
 ## 🚀 Features
