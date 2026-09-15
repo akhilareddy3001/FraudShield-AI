@@ -40,7 +40,7 @@ function AnalyzeTransaction() {
     setResult(null);
 
     try {
-      const response = await fetch("http://localhost:5000/api/analyze", {
+      const response = await fetch("https://fraudshield-ai-9s2b.onrender.com/api/analyze", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
